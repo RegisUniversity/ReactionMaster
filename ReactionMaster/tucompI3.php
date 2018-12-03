@@ -67,7 +67,7 @@ audio.play();
                
                    
                </p>
-               <a href="select.php"> skip</a>
+               <a href="tutorialreac.php"> skip</a>
            </div>
            
            <footer id="tufo">

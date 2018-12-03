@@ -83,7 +83,7 @@ audio.play();
                
                    
                </p>
-               <a href="select.php"> skip</a>
+               <a href="tutorialreac.php"> skip</a>
            </div>
            
            <footer id="tufo">
@@ -92,8 +92,8 @@ audio.play();
 </a>
               <!-- <button type="submit" name="submit" id='tubut' data-toggle="tooltip" data-placement="left" title="click to go to next page" onclick="location.href='tutorialreac.php'"><img src="forwardbut.gif" alt=/> </button> <br><br>-->
                <!-- <a href="">
-                    <img src="forwardbut.gif" alt="" style="width:42px;height:42px;border:0;" data-toggle="tooltip" data-placement="left" title="click to go to next page">--><br><br>
-</a>
+                    <img src="forwardbut.gif" alt="" style="width:42px;height:42px;border:0;" data-toggle="tooltip" data-placement="left" title="click to go to next page"></a>--><br><br>
+
            <a href="select.php"> home</a> 
            
                

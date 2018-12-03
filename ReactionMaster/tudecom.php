@@ -71,7 +71,7 @@ Heating ammonium carbonate -->ammonia+water+carbon dioxide <br><br>
            </div>
            
           <footer id="tufo">
-               <a href="select.php"> skip</a>
+              <a href="tutorialreac.php"> skip</a>
                <a href="tutorialreac.php" style="float: centre">
                    <img src="backbut.gif" alt="" style="width:42px;height:42px;border:0;" data-toggle="tooltip" data-placement="left" title="click to go back">
 </a>

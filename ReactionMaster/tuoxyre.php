@@ -62,17 +62,19 @@ audio.play();
                
                    
                </p>
-               <a href="select.php"> skip</a>
+               <!--<a href="select.php"> skip</a>-->
            </div>
            
            <footer id="tufo">
-               <a href="tutorialreac.php">
+                <a href="tutorialreac.php"> skip</a>
+               <!--to connect a page with an image-->
+               <a href="tutorialreac.php" style="float: centre">
                    <img src="backbut.gif" alt="" style="width:42px;height:42px;border:0;" data-toggle="tooltip" data-placement="left" title="click to go back">
 </a>
               <!-- <button type="submit" name="submit" id='tubut' data-toggle="tooltip" data-placement="left" title="click to go to next page" onclick="location.href='tutorialreac.php'"><img src="forwardbut.gif" alt=/> </button> <br><br>-->
-                <a href="tucombi1.php">
+                <!--<a href="tucombi1.php">
                     <img src="forwardbut.gif" alt="" style="width:42px;height:42px;border:0;" data-toggle="tooltip" data-placement="left" title="click to go to next page"><br><br>
-</a>
+</a>-->
            <a href="select.php"> home</a> 
            
                
