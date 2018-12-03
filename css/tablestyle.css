@@ -1,0 +1,377 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 30, 2018, 11:05:59 PM
+    Author     : shibi
+*/
+
+.button       { background-color: #00CCFF;
+					width: 100%;
+					height:100%;}
+			.button2      {background-color: #009999;
+					width: 100%;
+					height:100%;}
+			.button3      {background-color: #0066CC;
+					width: 100%;
+					height:100%;}
+			.button4      {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button5      {background-color: #FFB84D;
+					width: 100%;
+					height:100%;}
+			.button6      {background-color: #00CCFF;
+					width: 100%;
+					height:100%;}
+			.button7      {background-color: #00CCFF;
+					width: 100%;
+					height:100%;}
+			.button8      {background-color: #00CCFF;
+					width: 100%;
+					height:100%;}
+			.button9      {background-color: #70DB70;
+					width: 100%;
+					height:100%;}
+			.button10     {background-color: #009999;
+					width: 100%;
+					height:100%;}
+			.button11     {background-color: #0066CC;
+					width: 100%;
+					height:100%;}
+			.button12     {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button13     {background-color: #FF704D;
+					width: 100%;
+					height:100%;}
+			.button14     {background-color: #FFB84D;
+					width: 100%;
+					height:100%;}
+			.button15     {background-color: #00CCFF;
+					width: 100%;
+					height:100%;}
+			.button16     {background-color: #00CCFF;
+					width: 100%;
+					height:100%;}
+			.button17     {background-color: #70DB70;
+					width: 100%;
+					height:100%;}
+			.button18     {background-color: #009999;
+					width: 100%;
+					height:100%;}
+			.button19     {background-color: #0066CC;
+					width: 100%;
+					height:100%;}
+			.button20     {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button21     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button22     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button23     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button24     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button25     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button26     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button27     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button28     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button29     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button30     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button31     {background-color: #FF704D;
+					width: 100%;
+					height:100%;}
+			.button32     {background-color: #FFB84D;
+					width: 100%;
+					height:100%;} 
+			.button33     {background-color: #FFB84D;
+					width: 100%;
+					height:100%;} 
+			.button34     {background-color: #00CCFF;
+					width: 100%;
+					height:100%;}
+			.button35     {background-color: #70DB70;
+					width: 100%;
+					height:100%;}
+			.button36     {background-color: #009999;
+					width: 100%;
+					height:100%;}
+			.button37     {background-color: #0066CC;
+					width: 100%;
+					height:100%;}
+			.button38     {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button39     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button40     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button41     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button42     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button43     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button44     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button45     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button46     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button47     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button48     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button49     {background-color: #FF704D;
+					width: 100%;
+					height:100%;}
+			.button50     {background-color: #FF704D;
+					width: 100%;
+					height:100%;}
+			.button51     {background-color: #FFB84D;
+					width: 100%;
+					height:100%;}
+			.button52     {background-color: #FFB84D;
+					width: 100%;
+					height:100%;}
+			.button53     {background-color: #70DB70;
+					width: 100%;
+					height:100%;}
+			.button54     {background-color: #009999;
+					width: 100%;
+					height:100%;}
+			.button55     {background-color: #0066CC;
+					width: 100%;
+					height:100%;}
+			.button56     {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button57     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button58     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button59     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button60     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button61     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button62     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button63     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button64     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button65     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button66     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button67     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button68     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button69     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button70     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button71     {background-color: #00466B;
+					width: 100%;
+					height:100%;}
+			.button72     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button73     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button74     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button75     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button76     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button77     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button78     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button79     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button80     {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button81     {background-color: #FF704D;
+					width: 100%;
+					height:100%;}
+			.button82     {background-color: #FF704D;
+					width: 100%;
+					height:100%;}
+			.button83     {background-color: #FF704D;
+					width: 100%;
+					height:100%;}
+			.button84     {background-color: #FFB84D;
+					width: 100%;
+					height:100%;}
+			.button85     {background-color: #70DB70;
+					width: 100%;
+					height:100%;}
+			.button86     {background-color: #009999;
+					width: 100%;
+					height:100%;}
+			.button87     {background-color: #0066CC;
+					width: 100%;
+					height:100%;}
+			.button88     {background-color: #CC66CC;
+					width: 100%;
+					height:100%;}
+			.button89     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button90     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button91     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button92     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button93     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button94     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button95     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button96     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button97     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button98     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button99     {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button100    {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button101    {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button102    {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button103    {background-color: #742574;
+					width: 100%;
+					height:100%;}
+			.button104    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button105    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button106    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button107    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button108    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button109    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button110    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button111    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button112    {background-color: #FF4D4D;
+					width: 100%;
+					height:100%;}
+			.button113    {background-color: #96A5A7;
+					width: 100%;
+					height:100%;}
+			.button114    {background-color: #96A5A7;
+					width: 100%;
+					height:100%;}
+			.button115    {background-color: #96A5A7;
+					width: 100%;
+					height:100%;}
+			.button116    {background-color: #96A5A7;
+					width: 100%;
+					height:100%;}
+			.button117    {background-color: #96A5A7;
+					width: 100%;
+					height:100%;}
+			.button118    {background-color: #96A5A7;
+					width: 100%;
+					height:100%;}
+			table         { border-collapse: collapse;
+					border: 1px;
+					width: 100%;
+					height: 100%;}
+			tr, td        { background-color: #000000;
+					border: 1px;
+					font-size: 200%;}
+		    h1      {background-color: #000000;}
+                    #buttonbutton104{
+                        font-size: 20px;
+                       float:contour;
+                        margin-top: 50px;
+                    }

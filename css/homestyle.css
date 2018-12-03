@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 29, 2018, 9:14:31 PM
+    Author     : shibi
+*/
+body {
+	background-color: antiquewhite;
+	background-image: url(../equationslandscpe2.png);
+	background-size: cover;
+	image: "1.jpg";
+      margin-bottom: 500px;
+           
+}
+img{
+    width: 100%;
+    height: auto;
+}
+#home{
+    text-align: center;
+    background-image: url(equationslandscape2.png);
+    padding-top: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 100px;
+    /*giving shadow effect for text*/
+    text-shadow: 2px 2px 5px red;
+    font-size: 20px;
+    width: 400px;
+    height: 300px;
+    background: whitesmoke;
+    position: relative;
+    -webkit-animation: mymove 3s;  /* Safari 4.0 - 8.0 */
+    -webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+    animation: mymove 3s;
+    animation-fill-mode: forwards;
+    
+}
+@-webkit-keyframes mymove {
+    from {top: 0px;}
+    to {top: 200px; background-color: whitesmoke;}
+}
+
+@keyframes mymove {
+    from {top: 0px;}
+    to {top: 200px; background-color: light blue;}
+}
+
+#home:hover{
+    /*font-size: 20px;*/
+   
+    background-color: #ccccff;
+}
+.main_login{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 150px;
+}
+.main_login form button hover{
+    display: block;
+    background-color: activeborder;
+    cursor: pointer;
+}
+.main_login form button{
+ color: black;
+ cursor:pointer;
+}
+.main_wrapper{
+    width: 100%;
+    height: 80px;
+    left: 35%;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+border-width: 5px;
+}
+
+header .main_wrapper a{
+ color: black;
+ cursor:pointer;
+ float: right;
+    
+}
+
+.main_wrapper a hover{
+    
+    background-color: white;
+    
+}
