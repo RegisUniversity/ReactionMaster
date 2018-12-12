@@ -1,20 +1,34 @@
-Application Flow
+application URL ---- http://173.8.254.145/PhpProject1/ReactionMaster/homepage.php
 
-First page ---- home.php , where we can see two options called sign in and sign up
 
-     If we click on Sign In ---- Page is directed to login.php page
+Application Flow:
+
+
+homepage.php ------ we can see an option called SIGN IN 
+
+index.php ------ this page is directed when user selects SIGN IN
      
         Here, Existing user can log in to the application by entering username and password
+	If user forgets the password, an option called Forgot password is provided which can be made use of.
         
-       when existing credentials are provided, the page is directed to welcome.php page
+      OR
        
-       Here, we find two options called Test and Practice and Logout option is also provided which directs to the home.php page
- 
- 		Test --- If we select test, it directs to testSelType.php page, where we can see all the nine types of reactions to select.
- 		
- 		
-
-	 If we click on Sign Up ----- new user can create an account by providing their required information in the coressponding fields
+       user can click on SIGN UP, new user can create an account by providing the required information in the coressponding fields
 	 
-LogOut ----- directs to home.php page
+   
+ 
+ 
+ select.php ------ this is the actual welcome page where user can make use of the entire application
+ 	
+ 	 LOGOUT ----- directs to homepage.php page
+ 	 TUTORIAL----- directs to tutorial.php page
+	 PRACTICE ----- directs to practice.php page
+	 TEST ----------directs to testSelType.php page
+	 PERIODIC TABLE -- directs to periodictablechart.php page
+
+tutorial.php ---------- user can find a tutorial for each type of reactions
+practice.php ----------- user can practice available different types of reactions 
+testSelType.php -------- user can select the type of reaction in which they are willing to attempt test and thereby directed to the corresponding test page.
+periodictablechart.php --- user can see the entire periodic table with each element as a button and can select any element to learn its properties.
+
 
